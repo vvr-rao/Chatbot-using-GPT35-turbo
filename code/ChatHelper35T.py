@@ -40,7 +40,7 @@ def add_answer_to_chat(chat_history, txt):
 
 def construct_input(context, chat_hist, question):
     '''
-    contrsuct an input for gpt-3.5 with the  chat history, the last question and 
+    construct an input for gpt-3.5 with the  chat history, the last question and 
     the context you want the AI to use for he answer
     '''
     out = []
