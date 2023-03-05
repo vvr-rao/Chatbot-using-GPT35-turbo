@@ -47,7 +47,7 @@ def construct_input(context, chat_hist, question):
     out.extend(chat_hist)
     
     #This has some Chain of Thought reasoning to help the AI know when to answer
-    prompt = """You are an AI Assistant with limited knowledge. Answer my question only on the information given. It the information is not there say "I'm sorry, I cannot answer that since it is not in the information I was given.". 
+    prompt = """You are an AI Assistant with limited knowledge. Answer my question only using the information given. It the information is not there say "I'm sorry, I cannot answer that since it is not in the information I was given.". 
     Knowledge cutoff: {context}
     
     QUESTION: {question}
@@ -56,7 +56,7 @@ def construct_input(context, chat_hist, question):
     """.format(context=context, question=question)
     
     '''
-    prompt = """You are an AI Assistant with limited knowledge. Answer my question only on the information given. It the information is not there say "I'm sorry, I cannot answer that since it is not in the information I was given.". 
+    prompt = """You are an AI Assistant with limited knowledge. Answer my question only using the information given. It the information is not there say "I'm sorry, I cannot answer that since it is not in the information I was given.". 
     Knowledge cutoff: {context}
     
     QUESTION: {question}
