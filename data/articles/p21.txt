@@ -1,0 +1,41 @@
+Electric vs. Gas Cars: Is It Cheaper to Drive an EV?
+Chances are, yes. Here’s how to be sure.
+May 25, 2022 Courtney Lindwall 
+There are plenty of climate and air quality reasons to buy an electric vehicle, but is it cheaper to drive? It’s the deceptively complicated question that has befuddled car shoppers for years and with good reason. A lot can determine your EV’s price tag—from fuel costs to maintenance—and whether you’ll save money in the long run. Let’s sort it out.
+
+Sticker prices for electric vs. gas cars
+The average sticker price of a new electric car in 2021 was about $10,000 higher than the industry average, which includes both gas-powered and electric vehicles. But the EV market is growing rapidly, and this price margin is expected to shrink considerably in the coming years as manufacturers produce more affordable models and battery technology (which is the most expensive part of an EV) improves.
+
+You can mitigate some of that cost by making use of tax incentives, which can shave thousands off an EV’s price tag. The federal EV tax credit offers up to $7,500 for new EVs and, for the first time, $4,000 for used EVs, too. One asterisk: New EVs must now meet new manufacturing requirements in order to qualify, which will likely temporarily impact the availability of eligible EVs while supply chains catch up. However, many states offer their own tax incentives too. So take the time to search for what’s available for the model you’re interested in buying. 
+
+Be sure to also account for a potential upgrade to your EV-charging system. Charging from a standard 120-volt outlet for eight hours will add about 32 miles of range, which is typically plenty for daily driving needs. If you want to be able to make frequent and/or longer trips, installing a Level 2, 240-volt outlet in your garage can allow you to add 200 miles or more overnight. That installation will cost you about $2,000, but some states and local utility companies offer incentives to offset it.
+
+Once you have an idea of what incentives you qualify for, you should be able to better compare car prices.
+
+Cost of electricity vs. gasoline
+Here’s where EV owners win out. Going electric means you get to skip pricey trips to the pump, which is one of the biggest draws for making the switch. A 2018 study by the University of Michigan’s Transportation Research Institute found that the average cost to fuel an electric car was $485 a year, compared to $1,117 for a gas-powered vehicle. A 2020 Consumer Reports study similarly showed that EV drivers tend to spend about 60 percent less each year on fuel costs compared to drivers of gas-powered cars.
+
+But these savings calculations aren’t the same for everyone. Here’s where it can get a little complicated.
+
+For starters, electric vehicles range in efficiency—that is, how far they can go on the same amount of electricity. For an EV, efficiency is measured by how many kilowatt-hours (kWh) of electricity it consumes per 100 miles—similar to a gas-powered car’s miles-per-gallon stat. (A lower kWh/100 miles rate is better.) The 2022 Tesla Model 3 RWD leads the pack in efficiency, with 25 kWh/100 miles. But the more budget-friendly 2022 Chevrolet Bolt EUV is comparable, with a 29 kWh/100 miles rating. So make sure to consider this when comparison shopping.
+
+Charging your car at home will also cause your electricity bill to rise, but how much will depend on factors like when you charge it and where you live. Electricity costs, like gas prices, can vary significantly by region. Taking both of these into account, a 2020 study broke down the lifetime fuel costs of battery-powered electric vehicles versus internal combustion engine cars state by state. EV owners in Washington State, for example, can save as much as $14,480 over the life of their vehicle—the highest margin in the country. On the other end of the spectrum is Hawaii, where going electric could ultimately cost $2,494 more over 15 years.
+
+To get a rough estimate of your own charging costs, multiply an EV’s kilowatt-hour (kWh/100) miles rate by your electricity rate (measured in cents per kWh), which you can find on your monthly bill. This will give you the electricity costs per 100 miles driven. After figuring in the number of miles you typically drive in a month, you’ll be able to see how much your electric bill may go up. Keep in mind that charging your car overnight, when electricity demand and price drop, can save you 30 percent on that charge.
+
+Also note that public charging stations tend to be more expensive than charging at home. If you rely exclusively on these stations—which offer faster, higher-voltage charging—your fueling costs could significantly increase.
+
+After you figure out how these factors apply to you and your preferred EV model, compare your final electricity cost estimate to what you typically spend on gas.
+
+Maintenance costs for electric vs. gas cars
+Without spark plugs to replace or oil to change, electric vehicles have a clear leg up on maintenance costs. Electric cars do still require some basic maintenance—like service checks and tire rotations. But in general, electric vehicles typically cost half as much to maintain and repair as gas-powered cars.
+
+Lifetime costs for electric vs. gas cars
+Now to calculate that all-important number—whether an electric car will be cheaper over the life of the vehicle.
+
+You can figure out your savings estimate by calculating the upfront costs of your specific model (minus tax rebates) and then ongoing costs. Those should account for your model’s efficiency, how much you plan to drive, regional electricity costs, charging habits, and maintenance costs per year. Then compare those to the gas-powered alternative.
+
+Of course, if you want to skip the math, this 2020 Consumer Reports study may help. It compared nine of the most popular EVs on the market with three comparable gas-powered vehicles, including the best-selling, top-rated, and most-efficient in their class. The results were clear: The lifetime ownership costs for all nine of the electric cars were “many thousands of dollars lower than all comparable ICE [internal-combustion engine] vehicles’ costs, with most EVs offering savings of between $6,000 and $10,000.” And a more recent analysis found it’s already less expensive to own an electric vehicle (EV) than a similar gasoline model.
+
+Bottom line: You can bank on saving across the life of your electric vehicle. That’s not too shabby, considering you’ll also be sparing the climate thousands of pounds of carbon pollution over the car’s life, along with other pollutants that create smog, lower local air quality, and harm public health.
+

@@ -1,0 +1,51 @@
+Climate Change: Global Temperature
+ BY REBECCA LINDSEY AND LUANN DAHLMAN  REVIEWED BY JESSICA BLUNDEN
+PUBLISHED JANUARY 18, 2023
+HIGHLIGHTS
+Earth’s temperature has risen by an average of 0.14° Fahrenheit (0.08° Celsius) per decade since 1880, or about 2° F in total.
+The rate of warming since 1981 is more than twice as fast: 0.32° F (0.18° C) per decade.
+2022 was the sixth-warmest year on record based on NOAA’s temperature data.
+The 2022 surface temperature was 1.55 °F (0.86 °Celsius) warmer than the 20th-century average of 57.0 °F (13.9 °C) and 1.90 ˚F (1.06 ˚C) warmer than the pre-industrial period (1880-1900). 
+The 10 warmest years in the historical record have all occurred since 2010. 
+2022 global summary
+SHARE
+facebook twitter envelope print
+Related Content
+Graph of global surface temperature anomalies from 1880-2022
+Yearly surface temperature compared to the 20th-century average from 1880–2022. Blue bars indicate cooler-than-average years; red bars show warmer-than-average years. NOAA Climate.gov graph, based on data from the National Centers for Environmental Information.
+
+Given the tremendous size and heat capacity of the global oceans, it takes a massive amount of heat energy to raise Earth’s average yearly surface temperature even a small amount. The roughly 2-degree Fahrenheit (1 degrees Celsius) increase in global average surface temperature that has occurred since the pre-industrial era (1880-1900) might seem small, but it means a significant increase in accumulated heat.
+
+That extra heat is driving regional and seasonal temperature extremes, reducing snow cover and sea ice, intensifying heavy rainfall, and changing habitat ranges for plants and animals—expanding some and shrinking others.  As the map below shows, most land areas have warmed faster than most ocean areas, and the Arctic is warming faster than most other regions.
+
+Map showing trends in global average surface temperature between 1990 and 2022
+Trends in global average surface temperature between 1993 and 2022 in degrees Fahrenheit per decade. Most of the planet is warming (yellow, orange, red). Only a few locations, most of them in Southern Hemisphere oceans, cooled over this time period. NOAA Climate.gov map, based on data from NOAA Centers for Environmental Information.
+
+About surface temperature
+The concept of an average temperature for the entire globe may seem odd. After all, at this very moment, the highest and lowest temperatures on Earth are likely more than 100°F (55°C) apart. Temperatures vary from night to day and between seasonal extremes in the Northern and Southern Hemispheres. This means that some parts of Earth are quite cold while other parts are downright hot. To speak of the "average" temperature, then, may seem like nonsense. However, the concept of a global average temperature is convenient for detecting and tracking changes in Earth's energy budget—how much sunlight Earth absorbs minus how much it radiates to space as heat—over time.
+
+To calculate a global average temperature, scientists begin with temperature measurements taken at locations around the globe. Because their goal is to track changes in temperature, measurements are converted from absolute temperature readings to temperature anomalies—the difference between the observed temperature and the long-term average temperature for each location and date. Multiple independent research groups across the world perform their own analysis of the surface temperature data, and they all show a similar upward trend.
+
+Across inaccessible areas that have few measurements, scientists use surrounding temperatures and other information to estimate the missing values. Each value is then used to calculate a global temperature average. This process provides a consistent, reliable method for monitoring changes in Earth's surface temperature over time. Read more about how the global surface temperature record is built in our Climate Data Primer.
+
+Global temperature in 2022
+According to the 2022 Global Climate Report from NOAA National Centers for Environmental Information, every month of 2022 ranked among the ten warmest for that month, despite the cooling influence from the La Niña climate pattern in the tropical Pacific. The "coolest" month was November, which was 1.35 ˚F (0.75 ˚C) warmer than average.
+
+Global map of temperature patterns combined with animated bar graph of yearly temperature anomalies from 1976 to 2022
+(map) Global average surface temperature in 2022 compared to the 1991-2020 average, with places that were warmer than average colored red, and places that were cooler than average colored blue. (graph) The bars on the graph show global temperatures compared to the 20th-century average each year from 2022 (right) back to 1976 (left)–the last year the world was cooler than average. NOAA Climate.gov image, based on data from NOAA National Centers for Environmental Information.
+
+According to NCEI,
+
+The year 2022 was the sixth warmest year since global records began in 1880 at 0.86°C (1.55°F) above the 20th century average of 13.9°C (57.0°F). This value is 0.13°C (0.23°F) less than the record set in 2016 and it is only 0.02°C (0.04°F) higher than the last year's (2021) value, which now ranks as the seventh highest. The 10 warmest years in the 143-year record have all occurred since 2010, with the last nine years (2014–2022) ranking as the nine warmest years on record.
+
+For more regional details and 2022 climate statistics, see the 2022 Global Climate Report from NOAA's National Centers for Environmental Information. 
+
+Past and future change in global temperature
+Though warming has not been uniform across the planet, the upward trend in the globally averaged temperature shows that more areas are warming than cooling. According to NOAA's 2021 Annual Climate Report the combined land and ocean temperature has increased at an average rate of 0.14 degrees Fahrenheit ( 0.08 degrees Celsius) per decade since 1880; however, the average rate of increase since 1981 has been more than twice as fast: 0.32 °F (0.18 °C) per decade.
+
+The amount of future warming Earth will experience depends on how much carbon dioxide and other greenhouse gases we emit in coming decades. Today, our activities—burning fossil fuels and clearing forests—add about 11 billion metric tons of carbon (equivalent to a little over 40 billion metric tons of carbon dioxide) to the atmosphere each year. Because that is more carbon than natural processes can remove, atmospheric carbon dioxide increases each year.
+
+side by side graphs showing future carbon emissions (left) and projected temperatures that would result (right)
+(left) Hypothetical pathways of carbon emissions ("representative concentration pathways," or RCPs) throughout the twenty-first century based on different possible energy policies and economic growth patterns. (right)  Projected temperature increase relative to the 1901-1960 average depending on which RCP we eventually follow. Image by Katharine Hayhoe, from the 2017 Climate Science Special Report by the U.S. Global Change Research Program.
+
+According to the 2017 U.S. Climate Science Special Report, if yearly emissions continue to increase rapidly, as they have since 2000, models project that by the end of this century, global temperature will be at least 5 degrees Fahrenheit warmer than the 1901-1960 average, and possibly as much as 10.2 degrees warmer. If annual emissions increase more slowly and begin to decline significantly by 2050,  models project temperatures would still be at least 2.4 degrees warmer than the first half of the 20th century, and possibly up to 5.9 degrees warmer.
