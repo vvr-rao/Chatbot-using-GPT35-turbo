@@ -1,0 +1,60 @@
+Exactly How Much Has the Earth Warmed? And Does It Matter?
+
+One might reasonably question why a few tenths of a degree would make much difference. Those making the argument for a higher number claim it is important because it shows we are already closer to the targets of 1.5° and 2.0° above pre-industrial temperatures established by the United Nations Framework Convention on Climate Change (UNFCCC), therefore greater cuts in future carbon emissions are necessary. Those supporting the lower figure believe the 1.5° target can be met with less stringent reductions.
+
+The debate exists in part because the UNFCCC did not define pre-industrial when setting the targets. It is further complicated because there are uncertainties in both historical and recent global temperatures. Neither claim may have much impact.
+
+What is the pre-industrial temperature?
+
+The latest assessment (AR5) of the Intergovernmental Panel on Climate Change (IPCC) refers to a baseline of 1850–1900. This is a practical choice, since it includes the period of most reliable temperature records and less than 3% of total fossil fuel carbon dioxide emissions had occurred by that time.
+
+PROMOTED
+
+
+
+
+Presumably, this is the baseline intended by UNFCCC since they describe the IPCC reports as “the most credible sources of scientific information on climate change” and 1850–1900 is also referenced in the UNFCCC’s Structured Expert Dialogue. However, other definitions of pre-industrial are used within the IPCC reports. For example, both “before 1850" and 1750 were used in the Working Group 1 report.
+
+The primary argument of Schurer, et al. for using earlier time periods is that some human-caused warming may have taken place earlier, so pre-industrial should be defined as before 1850. Because temperature was lower for several centuries prior to 1850, their earlier baseline yields the additional two tenths of warming.
+
+If the UNFCCC actually intended 1850–1900 as the base period, choosing an earlier interval is moving the goalposts. In addition, it raises the question of choosing the earlier period and determining the temperature of the new baseline.
+
+The imprecision of pre-1850 temperature reconstructions
+
+Since temperature measurements are sparse before 1850, temperature must be estimated by proxies, such as tree rings, ice cores, corals and pollens. These have known inaccuracies and do not agree. The graph below shows reconstructions from 11 different proxies. Each colored curve is a different reconstruction.
+
+uncaptioned
+Source: Wikimedia Commons
+
+Reconciling the various proxies involves numerous assumptions, corrections, and averaging techniques. Smerdon and Pollack call it a “problem of interpreting incomplete, inaccurate, and conflicting information.”
+
+Temperatures in the time frame of interest may also be estimated by pseudoproxy models, which combine climate models with proxy data. These also vary substantially, as illustrated in the sample of pseudoproxy models below. Schurer, et al. say “the estimation of pre-industrial temperature is far from straightforward.”
+
+uncaptioned
+Source: Modified from IPCC
+
+Choice of pre-industrial
+
+Although there is considerable difference between various reconstructions, most show a pattern of slow warming into the Medieval Warm Period, cooling into the Little Ice Age, and warming since about 1650. Which of these best represents pre-industrial?
+
+Schurer, et al. suggest 1400-1800. This seems biased to showing the maximum amount of warming, since it brackets the Little Ice Age. One might as easily argue the Medieval Warm Period could be used. A better argument would be to use 750-1850 or 0-1850. The temperature over those intervals would not be greatly different from than IPCC’s 1850-1900. Other authors have suggested different intervals.
+
+Differences in present day temperature estimates
+
+Although recent temperature measurements are far better defined than pre-industrial, they are not without uncertainty. Differences exist between different averaging methods and corrections, choice of land vs. land plus sea, etc. These can be on the order of a tenth of a degree.
+
+The discussion here of ambiguities barely scratches the surface of defining the 1.5 and 2° goals. A well-written article by Rogelj, et al. discusses other questions in interpreting the intent of the UNFCCC. In a separate article, he and other authors caution against “shifting the [UNFCCC’s] goalposts.”
+
+Limitations are not criticisms
+
+This discussion of uncertainties is not meant as criticism of the science or the authors. It is a function of the current state of knowledge, which is well-described in mainstream peer-reviewed journals and discussed by respected climate scientists, many of whom are contributors to the IPCC reports. A recent example was correspondence in the journal Nature Climate Change between the authors of the Millar and Schurer papers, each of whom defended their conclusions.
+
+Why an exact value doesn't matter
+
+Although there are some out-of-the-mainstream views to the contrary, there is strong evidence the Earth has warmed about 1° C since pre-industrial times. Uncertainties in the data and lack of agreement on a reference date make it impossible to give a precise value.
+
+If one subscribes to the belief that fossil fuels are the primary or sole cause of this warming, as do most climate scientists, it is urgent to reduce fossil fuel usage. The IPCC has been saying this since their First Assessment Report in 1990. Succeeding reports have described the situation as more urgent since inadequate progress in reducing fossil fuel emissions has been made.
+
+It is hard to imagine that believing warming since pre-industrial is one or two tenths of a degree higher will change the urgency for fossil fuel reduction. This view has been expressed by Dana Nuccitelli, one of the most zealous emissions reductions advocates. In a Guardian article he says, "We’re at the point where we need to cut carbon pollution as quickly as feasibly possible. That’s true whether Earth has warmed 1.0 or 1.1 or 1.2°C above “pre-industrial” temperatures.”
+
+By the same token, the 57% of Americans who do not worry much about global warming are not likely to be influenced by a conclusion that pre-industrial temperatures are two tenths of a degree cooler than earlier thought.

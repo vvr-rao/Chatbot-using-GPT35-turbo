@@ -1,0 +1,53 @@
+At-a-glance
+The Earth’s average surface temperature has increased by about 1.8°F (1.0°C) since the late 1800s.
+Human-caused greenhouse gas emissions are responsible for the observed warming.
+A warmer Earth also experiences more extreme weather events, like longer fire seasons, bigger and more frequent floods, and slower and stronger hurricanes.
+The Earth is Warming
+The world is undoubtedly warming. The Earth’s average surface temperature has increased by about 1.8°F (1.0°C) since the late 1800s.
+
+The 10 warmest years on record (since 1880) have all occurred since 1998, and all but one happened since 2005. See a list of global average annual temperatures here.
+
+Global Land and Ocean Temperature Anomalies
+
+NOTES
+Annual global temperatures (land and ocean) from 1880 to 2016 compared with the 20th century average
+
+SOURCE
+Climate at a Glance: Global Time Series (NOAA National Centers for Environmental information, 2017)
+
+The Greenhouse Effect
+Light from the sun passes through the atmosphere and is absorbed by the Earth’s surface, heating it up. That energy is then emitted back to the atmosphere. Greenhouse gases, like carbon dioxide and methane, in the atmosphere act like a blanket, absorbing this energy and preventing it from escaping into space. In the absence of a greenhouse effect, the average temperature at the Earth’s surface would be approximately 0 degrees F, about 60 degrees F colder than Earth’s current average temperature. Thus, the greenhouse effect is very important to the survival of life on Earth. But the growing concentration of greenhouse gases from human activities is making this blanket thicker, and warming the planet, which has impacts on ecosystems and our way of life.
+
+The Greenhouse Effect Explained
+
+SOURCE
+National Park Service
+
+The warming of the Earth is largely the result of emissions of carbon dioxide (CO2) and other greenhouse gases from human activities. These activities include burning fossil fuels, such as coal and oil, and changes in land use, such as agriculture and deforestation.
+
+Carbon dioxide concentrations in the atmosphere have increased since pre-industrial times from 280 parts per million to over 400 parts per million.
+
+It is extremely likely that human influence is the dominant cause of the observed warming since the mid-20th century.
+
+IPCC AR5, Working Group 1, Summary for Policy Makers, p.17
+
+Rising Atmospheric Carbon Dioxide
+
+NOTES
+Atmospheric carbon dioxide from 1958-present. The red curve shows the monthly average. The black curve has been adjusted to take the seasonal changes in CO2 concentration into account. Source: Dr. Pieter Tans, NOAA/ESRL and Dr. Ralph Keeling, Scripps Institution of Oceanography.
+
+SOURCE
+NOAA
+
+The reason for the accumulation is simple: Human activities are emitting more carbon dioxide than the planet’s natural processes (uptake by plants and the ocean) can remove. It’s like a bathtub where the flow of water out of the faucet is more than the flow through the drain, causing the water level in the bath to rise.
+
+This 5-minute video by the National Academies of Sciences, Engineering, and Medicine shows the many lines of evidence that human activities are causing greenhouse gases to increase.
+
+
+
+Among the evidence:
+
+Ice cores from Greenland and Antarctica tell us that carbon dioxide and other greenhouse gas concentrations were relatively stable for thousands of years, but began to rise around 200 years ago, when humans began to engage in large-scale agriculture and industry. Concentrations of these gases are now higher than at any time for which we have ice core records, which stretch back 800,000 years.
+Carbon dioxide from fossil fuels has a certain isotopic “signature” (an indication of atomic weight) that differs from other sources of CO2. Scientists measure the different isotopes, which confirms that the increase in carbon dioxide in the atmosphere is predominantly from fossil fuel combustion.
+Some greenhouse gases, such as industrial halocarbons, are only made by humans. Their accumulation in the atmosphere can only be explained by human activity.
+Other factors capable of changing the climate, like volcanic eruptions and changes in the sun’s intensity, cannot by themselves explain the changes we’ve recently observed in the Earth’s climate. The figure below shows the outcomes of different computer simulations of climate (see caption for details). Only the simulations that included human influences exhibited warming similar to the observed temperatures.
