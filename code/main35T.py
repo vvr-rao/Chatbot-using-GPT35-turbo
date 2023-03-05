@@ -8,7 +8,7 @@ chat_history = [  {'role': 'system', 'content': """You are an AI Assistant with 
         {"role": "user", "content": "Did the US Sign the Paris Agreement?"},
         {"role": "assistant", "content": "I'm sorry, I cannot answer that since it is not in the information I was given."}]
 
-QUESTIONS_TO_SV = 2 #retains these main questions to find context
+QUESTIONS_TO_SV = 2 #retains these many questions to find context
 
 last_few_questions = {}
 for i in range(0,QUESTIONS_TO_SV):
