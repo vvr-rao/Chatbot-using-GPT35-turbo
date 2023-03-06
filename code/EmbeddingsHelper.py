@@ -56,7 +56,7 @@ def get_context_by_id(conn, row_id):
     
 def getContext(query):
     #load files
-    conn = create_connection("/home/ec2-user/environment/Project-Chatbot/pythonsqlite.db")
+    conn = create_connection("<PATH>/pythonsqlite.db")
     query_embedding = get_embedding(query)
     res = index.query(query_embedding, top_k=2)
     best_match = int(res['matches'][0]['id'])
