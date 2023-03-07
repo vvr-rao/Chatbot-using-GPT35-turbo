@@ -2,9 +2,11 @@
 
 Chatbot using the OpenAI ChatGPT API, Pinecone and SQLLite.
 
-I have a qriteup explaining what I did here: https://medium.com/@venkat.ramrao/building-a-chatbot-using-a-local-knowledge-base-chatgpt-and-pinecone-d107745a472a
+I have a writeup explaining what I did here: https://medium.com/@venkat.ramrao/building-a-chatbot-using-a-local-knowledge-base-chatgpt-and-pinecone-d107745a472a
 
 This is designed to answer questions based on a local knowledgebase of articles. I was testing out concepts around Vector databases and trying out Prompts to see how far I could push the model without resorting to fine-tuning.
+
+SINGLE HOP Question Answering only at this time. Hoping to add in MULTI HOP QA in the future
 
 PREREQUISITES:
 You will need API Keys of OpenAI and Pinecone stored in environment variables - OPENAI_API_KEY and PINECONE_API_KEY
