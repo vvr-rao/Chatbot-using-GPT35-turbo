@@ -11,7 +11,7 @@ SINGLE HOP Question Answering only at this time. Hoping to add in MULTI HOP QA i
 PREREQUISITES:
 You will need API Keys of OpenAI and Pinecone stored in environment variables - OPENAI_API_KEY and PINECONE_API_KEY
 
-EXPLANATIN OF CODE FILES
+EXPLANATION OF CODE FILES
 
 1) createIndex - This expects the knowledge base to be provided as a set of .txt files in a folder. It creates an embedding for each file using text-embedding-ada-002 and loads them into an index in Pinecone. It also stores the actual text in a local SQLLite database.
 2) EmbeddingsHelper - Stores methods to retrieve context
