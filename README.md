@@ -15,5 +15,5 @@ EXPLANATIN OF CODE FILES
 
 1) createIndex - This expects the knowledge base to be provided as a set of .txt files in a folder. It creates an embedding for each file using text-embedding-ada-002 and loads them into an index in Pinecone. It also stores the actual text in a local SQLLite database.
 2) EmbeddingsHelper - Stores methods to retrieve context
-3) main35T  &  ChatHelper35T - these are needed to run the chatbot. You need to run main35T.py
+3) main35T  &  ChatHelper35T - Implementation using gpt-3.5 turbo (ChatGPT API). You need to run main35T.py
 4) mainDV3  &  ChatHelperDV3 - alternative implementation using davinci-003
