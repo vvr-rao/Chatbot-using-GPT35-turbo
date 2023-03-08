@@ -9,7 +9,7 @@ This is designed to answer questions based on a local knowledgebase of articles.
 SINGLE HOP Question Answering only at this time. Hoping to add in MULTI HOP QA in the future
 
 PREREQUISITES:
-You will need API Keys of OpenAI and Pinecone stored in environment variables - OPENAI_API_KEY and PINECONE_API_KEY
+You will need API Keys for OpenAI and Pinecone stored in environment variables - OPENAI_API_KEY and PINECONE_API_KEY
 
 EXPLANATION OF CODE FILES
 
